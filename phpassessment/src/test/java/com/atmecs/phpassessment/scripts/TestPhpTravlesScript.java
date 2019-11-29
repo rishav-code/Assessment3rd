@@ -26,7 +26,7 @@ public class TestPhpTravlesScript extends TestBase {
 	@BeforeClass
 	public void urlqw() {
 		baseClass = ReadProp.loadProperty(FilePath.CONFIG_FILE);
-		url = baseClass.getProperty("url1");
+		url = baseClass.getProperty("PhpTravlesUrl");
 		driver.get(url);
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
