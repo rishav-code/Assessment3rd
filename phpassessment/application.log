@@ -1,0 +1,282 @@
+2019-11-29 15:41:03,831  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 15:41:03,891  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 15:41:14,171  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 15:41:14,222  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 15:42:42,895  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 15:42:42,939  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 15:42:53,289  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 15:42:53,377  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 15:44:28,123  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 15:44:28,169  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 15:44:38,410  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 15:44:38,445  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 15:48:48,037  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 15:48:48,082  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 15:48:53,158  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 15:48:53,199  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:00:11,095  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:00:11,138  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:00:11,140  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:01:30,347  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:01:30,395  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:01:30,396  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:07:11,875  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:07:11,931  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:07:15,097  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:08:54,861  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:08:54,902  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:08:58,044  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:10:10,565  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:10:10,650  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:10:11,098  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:18:13,495  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:18:13,536  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:18:13,672  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:19:56,062  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:19:56,117  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:19:56,335  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:22:13,816  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:22:13,861  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:22:13,997  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:25:23,697  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:25:23,746  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:25:23,916  INFO [main] LogReport:38 - checkin Date Validation
+2019-11-29 16:40:12,685  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:40:12,729  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:40:12,908  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 16:41:18,434  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:41:18,478  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:41:18,658  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 16:49:14,754  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:49:14,829  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:49:14,946  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 16:50:57,087  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:50:57,119  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:50:57,237  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 16:53:04,520  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:53:04,555  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:53:04,690  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 16:55:12,947  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:55:12,988  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:55:13,146  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 16:55:16,256  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 16:55:16,257  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 16:55:16,338  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 16:55:16,339  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 16:56:40,392  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:56:40,435  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:56:40,619  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 16:56:43,697  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 16:56:43,697  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 16:56:43,782  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 16:56:43,783  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 16:59:07,042  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 16:59:07,086  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 16:59:07,229  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 16:59:10,364  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 16:59:10,364  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 16:59:10,450  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 16:59:10,451  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 17:01:01,925  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 17:01:01,968  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 17:01:02,114  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 17:01:05,219  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 17:01:05,220  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 17:01:05,328  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 17:01:05,329  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 17:01:08,443  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 17:01:08,445  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 17:02:22,509  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 17:02:22,549  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 17:02:22,704  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 17:02:25,787  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 17:02:25,787  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 17:02:25,893  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 17:02:25,894  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 17:02:28,986  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 17:02:28,987  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 17:06:05,825  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 17:06:05,867  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 17:06:06,035  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 17:06:09,116  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 17:06:09,116  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 17:06:09,203  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 17:06:09,203  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 17:06:12,340  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 17:06:12,340  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 17:07:16,048  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 17:07:16,118  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 17:07:16,328  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 17:07:19,593  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 17:07:19,594  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 17:07:19,780  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 17:07:19,780  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 17:08:13,796  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 17:08:13,848  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 17:08:14,002  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 17:08:17,084  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 17:08:17,084  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 17:08:17,178  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 17:08:17,178  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 17:08:20,318  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 17:08:20,319  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 18:12:55,842  INFO [main] LogReport:38 - Step1:Searching for hotel
+2019-11-29 18:12:55,846  INFO [main] LogReport:38 - Validation for Home page rediraction starts
+2019-11-29 18:12:55,933  INFO [main] LogReport:38 - Validation for Home page rediraction passed and ends
+2019-11-29 18:12:55,933  INFO [main] LogReport:38 - Selecting the Booking city
+2019-11-29 18:12:56,932  INFO [main] LogReport:38 - Selecting check in date
+2019-11-29 18:12:57,142  INFO [main] LogReport:38 - Step2:Calculating effective booking check in date
+2019-11-29 18:12:57,143  INFO [main] LogReport:38 - calculating The Check in Date and inserting
+2019-11-29 18:12:58,227  INFO [main] LogReport:38 - Step2:Calculating effective booking check out date
+2019-11-29 18:12:58,228  INFO [main] LogReport:38 - calculating the checkout date and inserting
+2019-11-29 18:12:58,598  INFO [main] LogReport:38 - Step 3:Selecting no of adults and childs
+2019-11-29 18:12:58,599  INFO [main] LogReport:38 - Taking input for no of adults and no of childs
+2019-11-29 18:13:10,471  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 18:13:10,514  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 18:13:10,514  INFO [main] LogReport:38 - Step4:valaditing booking Details
+2019-11-29 18:13:10,689  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 18:13:13,780  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 18:13:13,782  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 18:13:13,895  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 18:13:13,895  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 18:13:16,978  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 18:13:16,978  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 18:14:58,669  INFO [main] LogReport:38 - Step1:Searching for hotel
+2019-11-29 18:14:58,673  INFO [main] LogReport:38 - Validation for Home page rediraction starts
+2019-11-29 18:14:58,737  INFO [main] LogReport:38 - Validation for Home page rediraction passed and ends
+2019-11-29 18:14:58,737  INFO [main] LogReport:38 - Selecting the Booking city
+2019-11-29 18:15:00,320  INFO [main] LogReport:38 - Selecting check in date
+2019-11-29 18:15:01,006  INFO [main] LogReport:38 - Step2:Calculating effective booking check in date
+2019-11-29 18:15:01,008  INFO [main] LogReport:38 - calculating The Check in Date and inserting
+2019-11-29 18:15:03,422  INFO [main] LogReport:38 - Step2:Calculating effective booking check out date
+2019-11-29 18:15:03,422  INFO [main] LogReport:38 - calculating the checkout date and inserting
+2019-11-29 18:15:03,883  INFO [main] LogReport:38 - Step 3:Selecting no of adults and childs
+2019-11-29 18:15:03,884  INFO [main] LogReport:38 - Taking input for no of adults and no of childs
+2019-11-29 18:15:14,992  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 18:15:15,029  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 18:15:15,030  INFO [main] LogReport:38 - Step4:valaditing booking Details
+2019-11-29 18:15:15,172  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 18:15:18,257  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 18:15:18,258  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 18:15:18,345  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 18:15:18,345  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 18:15:21,453  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 18:15:21,454  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 18:17:46,394  INFO [main] LogReport:38 - Step1:Searching for hotel
+2019-11-29 18:17:46,399  INFO [main] LogReport:38 - Validation for Home page rediraction starts
+2019-11-29 18:17:46,460  INFO [main] LogReport:38 - Validation for Home page rediraction passed and ends
+2019-11-29 18:17:46,461  INFO [main] LogReport:38 - Selecting the Booking city
+2019-11-29 18:17:47,314  INFO [main] LogReport:38 - Selecting check in date
+2019-11-29 18:17:47,449  INFO [main] LogReport:38 - Step2:Calculating effective booking check in date
+2019-11-29 18:17:47,449  INFO [main] LogReport:38 - calculating The Check in Date and inserting
+2019-11-29 18:17:48,194  INFO [main] LogReport:38 - Step2:Calculating effective booking check out date
+2019-11-29 18:17:48,195  INFO [main] LogReport:38 - calculating the checkout date and inserting
+2019-11-29 18:17:48,458  INFO [main] LogReport:38 - Step 3:Selecting no of adults and childs
+2019-11-29 18:17:48,459  INFO [main] LogReport:38 - Taking input for no of adults and no of childs
+2019-11-29 18:18:00,332  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 18:18:00,376  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 18:18:00,377  INFO [main] LogReport:38 - Step4:valaditing booking Details
+2019-11-29 18:18:00,520  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 18:18:03,595  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 18:18:03,597  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 18:18:03,700  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 18:18:03,701  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 18:18:06,818  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 18:18:06,819  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 18:18:06,899  INFO [main] LogReport:38 - No of childs validation completed
+2019-11-29 18:19:51,300  INFO [main] LogReport:38 - Step1:Searching for hotel
+2019-11-29 18:19:51,304  INFO [main] LogReport:38 - Validation for Home page rediraction starts
+2019-11-29 18:19:51,366  INFO [main] LogReport:38 - Validation for Home page rediraction passed and ends
+2019-11-29 18:19:51,366  INFO [main] LogReport:38 - Selecting the Booking city
+2019-11-29 18:19:52,208  INFO [main] LogReport:38 - Selecting check in date
+2019-11-29 18:19:52,362  INFO [main] LogReport:38 - Step2:Calculating effective booking check in date
+2019-11-29 18:19:52,362  INFO [main] LogReport:38 - calculating The Check in Date and inserting
+2019-11-29 18:19:53,291  INFO [main] LogReport:38 - Step2:Calculating effective booking check out date
+2019-11-29 18:19:53,291  INFO [main] LogReport:38 - calculating the checkout date and inserting
+2019-11-29 18:19:53,718  INFO [main] LogReport:38 - Step 3:Selecting no of adults and childs
+2019-11-29 18:19:53,719  INFO [main] LogReport:38 - Taking input for no of adults and no of childs
+2019-11-29 18:20:05,745  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 18:20:05,780  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 18:20:05,780  INFO [main] LogReport:38 - Step4:valaditing booking Details
+2019-11-29 18:20:05,955  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 18:20:09,072  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 18:20:09,073  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 18:20:09,191  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 18:20:09,192  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 18:20:12,282  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 18:20:12,283  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 18:20:12,387  INFO [main] LogReport:38 - No of childs validation completed
+2019-11-29 18:20:12,387  INFO [main] LogReport:38 - Step5:Sorting Star rating
+2019-11-29 18:20:12,387  INFO [main] LogReport:38 - sorting started for rating
+2019-11-29 18:22:08,321  INFO [main] LogReport:38 - Step1:Searching for hotel
+2019-11-29 18:22:08,325  INFO [main] LogReport:38 - Validation for Home page rediraction starts
+2019-11-29 18:22:08,406  INFO [main] LogReport:38 - Validation for Home page rediraction passed and ends
+2019-11-29 18:22:08,407  INFO [main] LogReport:38 - Selecting the Booking city
+2019-11-29 18:22:09,239  INFO [main] LogReport:38 - Selecting check in date
+2019-11-29 18:22:09,365  INFO [main] LogReport:38 - Step2:Calculating effective booking check in date
+2019-11-29 18:22:09,366  INFO [main] LogReport:38 - calculating The Check in Date and inserting
+2019-11-29 18:22:12,673  INFO [main] LogReport:38 - Step2:Calculating effective booking check out date
+2019-11-29 18:22:12,673  INFO [main] LogReport:38 - calculating the checkout date and inserting
+2019-11-29 18:22:13,074  INFO [main] LogReport:38 - Step 3:Selecting no of adults and childs
+2019-11-29 18:22:13,074  INFO [main] LogReport:38 - Taking input for no of adults and no of childs
+2019-11-29 18:22:24,258  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 18:22:24,306  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 18:22:24,306  INFO [main] LogReport:38 - Step4:valaditing booking Details
+2019-11-29 18:22:24,451  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 18:22:27,535  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 18:22:27,537  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 18:22:27,640  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 18:22:27,640  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 18:22:30,721  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 18:22:30,722  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 18:22:30,802  INFO [main] LogReport:38 - No of childs validation completed
+2019-11-29 18:22:30,803  INFO [main] LogReport:38 - Step5:Sorting Star rating
+2019-11-29 18:22:30,803  INFO [main] LogReport:38 - sorting started for rating
+2019-11-29 18:25:32,651  INFO [main] LogReport:38 - Step1:Searching for hotel
+2019-11-29 18:25:32,654  INFO [main] LogReport:38 - Validation for Home page rediraction starts
+2019-11-29 18:25:32,717  INFO [main] LogReport:38 - Validation for Home page rediraction passed and ends
+2019-11-29 18:25:32,717  INFO [main] LogReport:38 - Selecting the Booking city
+2019-11-29 18:25:33,655  INFO [main] LogReport:38 - Selecting check in date
+2019-11-29 18:25:33,797  INFO [main] LogReport:38 - Step2:Calculating effective booking check in date
+2019-11-29 18:25:33,797  INFO [main] LogReport:38 - calculating The Check in Date and inserting
+2019-11-29 18:25:34,581  INFO [main] LogReport:38 - Step2:Calculating effective booking check out date
+2019-11-29 18:25:34,581  INFO [main] LogReport:38 - calculating the checkout date and inserting
+2019-11-29 18:25:34,855  INFO [main] LogReport:38 - Step 3:Selecting no of adults and childs
+2019-11-29 18:25:34,855  INFO [main] LogReport:38 - Taking input for no of adults and no of childs
+2019-11-29 18:25:44,015  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 18:25:44,057  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 18:25:44,058  INFO [main] LogReport:38 - Step4:valaditing booking Details
+2019-11-29 18:25:44,198  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 18:25:47,292  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 18:25:47,294  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 18:25:47,405  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 18:25:47,406  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 18:25:50,479  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 18:25:50,480  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 18:25:50,562  INFO [main] LogReport:38 - No of childs validation completed
+2019-11-29 18:25:50,562  INFO [main] LogReport:38 - Step5:Sorting Star rating
+2019-11-29 18:25:50,563  INFO [main] LogReport:38 - sorting started for rating
+2019-11-29 18:27:52,472  INFO [main] LogReport:38 - Step1:Searching for hotel
+2019-11-29 18:27:52,485  INFO [main] LogReport:38 - Validation for Home page rediraction starts
+2019-11-29 18:27:53,045  INFO [main] LogReport:38 - Validation for Home page rediraction passed and ends
+2019-11-29 18:27:53,046  INFO [main] LogReport:38 - Selecting the Booking city
+2019-11-29 18:27:54,168  INFO [main] LogReport:38 - Selecting check in date
+2019-11-29 18:27:54,329  INFO [main] LogReport:38 - Step2:Calculating effective booking check in date
+2019-11-29 18:27:54,329  INFO [main] LogReport:38 - calculating The Check in Date and inserting
+2019-11-29 18:27:55,475  INFO [main] LogReport:38 - Step2:Calculating effective booking check out date
+2019-11-29 18:27:55,476  INFO [main] LogReport:38 - calculating the checkout date and inserting
+2019-11-29 18:27:56,026  INFO [main] LogReport:38 - Step 3:Selecting no of adults and childs
+2019-11-29 18:27:56,026  INFO [main] LogReport:38 - Taking input for no of adults and no of childs
+2019-11-29 18:28:07,440  INFO [main] LogReport:38 - Hotel page rediraction assertion starts
+2019-11-29 18:28:07,483  INFO [main] LogReport:38 - Hotel page rediraction assertion completed
+2019-11-29 18:28:07,483  INFO [main] LogReport:38 - Step4:valaditing booking Details
+2019-11-29 18:28:07,628  INFO [main] LogReport:38 - checkin Date Validation starts
+2019-11-29 18:28:10,708  INFO [main] LogReport:38 - Check in date validation completed
+2019-11-29 18:28:10,709  INFO [main] LogReport:38 - checkout Date Validation starts
+2019-11-29 18:28:10,799  INFO [main] LogReport:38 - Check out date validation completed
+2019-11-29 18:28:10,800  INFO [main] LogReport:38 - No of adults Validation
+2019-11-29 18:28:13,880  INFO [main] LogReport:38 - No of adults validation completed
+2019-11-29 18:28:13,880  INFO [main] LogReport:38 - No of childs Validation
+2019-11-29 18:28:13,965  INFO [main] LogReport:38 - No of childs validation completed
+2019-11-29 18:28:13,966  INFO [main] LogReport:38 - Step5:Sorting Star rating
+2019-11-29 18:28:13,966  INFO [main] LogReport:38 - sorting started for rating
